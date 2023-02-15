@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Yan (Ashlee) Shao. Welcome to my Github Page!
 
 <!--
 **yan-ash/yan-ash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
